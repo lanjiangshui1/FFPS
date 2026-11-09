@@ -1,0 +1,8 @@
+numpy>=1.24
+pyyaml>=5.1
+mayavi>=4.8
+vtk>=9.2
+glfw>=1.8.3
+PyOpenGL>=3.1.0
+imgui[glfw]>=1.0.0
+pyqt5>=5.15
